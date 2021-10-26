@@ -6,6 +6,7 @@ I'm Angel, a full stack developer from Córdoba, Argentina.
 - :mortar_board: I'm also a biochemist and a pianist
 
 ## Skills
+- :notebook: Advanced English, Basic Portuguese
 - 👨‍💻 JavaScript, TypeScript, Java
 - ⚙️ React, Angular 8+, Node.js
 - 👁️ SASS, CSS
