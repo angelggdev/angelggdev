@@ -8,7 +8,7 @@ I'm Angel, a full stack developer from Córdoba, Argentina.
 ## Skills
 - :notebook: Advanced English, Basic Portuguese
 - 👨‍💻 JavaScript, TypeScript, Java
-- ⚙️ React, Angular 8+, Node.js
+- ⚙️ React, Angular 8+
 - 👁️ SASS, CSS
 - 💽 SQL, PostgreSQL
 
@@ -17,6 +17,7 @@ I'm Angel, a full stack developer from Córdoba, Argentina.
 ## Learning
 - :leaves: Spring Framework
 - 💽 MySQL, MongoDB
+- ⚙️ Node.js
 
 
 ## Contact
