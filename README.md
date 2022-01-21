@@ -11,7 +11,7 @@ I'm Angel, a full stack developer from Córdoba, Argentina.
 - ⚙️ React, Angular 8+
 - 👁️ SASS, CSS
 - 💽 SQL, PostgreSQL, MySQL, MongoDB, Firebase
-- - ⚙️ Node.js, Express.js
+- ⚙️ Node.js, Express.js
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelggdev&layout=compact&theme=dark&hide_border=true)
 
