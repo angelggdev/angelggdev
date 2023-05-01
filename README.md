@@ -2,21 +2,18 @@
 I'm Angel, a full stack developer from Córdoba, Argentina.
 
 ## Bio
-- :hourglass: Currently working as a full stack web developer in Paseshow.
+- :hourglass: Currently working as a front end developer in Bridge Patient Portal.
 - :mortar_board: I'm also a biochemist and a pianist
 
 ## Skills
 - :notebook: Advanced English, Native Spanish, Basic Portuguese
 - 👨‍💻 JavaScript, TypeScript, Java, Python
-- ⚙️ React, Angular 8+
+- ⚙️ React, Angular 2+
 - 👁️ SASS, CSS
-- 💽 SQL, PostgreSQL, MySQL, MongoDB, Firebase
+- 💽 MySQL, MongoDB, Firebase
 - ⚙️ Node.js, Express.js
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelggdev&layout=compact&theme=dark&hide_border=true)
-
-## Learning
-- :leaves: Spring Framework
 
 
 ## Contact
